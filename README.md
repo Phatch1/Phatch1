@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [s6304022610278@email.kmutnb.ac.th](mailto:s6304022610278@email.kmutnb.ac.th)
 
-<a href="https://www.twitter.com/PHaTCh0" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Phatch1" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Phatch1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/PHaTCh0" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/PHaTCh0?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 ### Skills
@@ -34,7 +35,5 @@ src="https://img.shields.io/twitter/follow/PHaTCh0?logo=twitter&style=for-the-ba
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Phatch1"><img src="https://github-readme-stats.vercel.app/api?username=Phatch1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Phatch1's GitHub stats" /></a>
-
-<a href="http://www.github.com/Phatch1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Phatch1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Phatch1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phatch1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
