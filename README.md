@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================================
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [s6304022610278@email.kmutnb.ac.th](mailto:s6304022610278@email.kmutnb.ac.th)
+* ✉️  You can contact me at [s6304022610278@email.kmutnb.ac.th](mailto:s6304022610278@email.kmutnb.ac.th) / [benzph01@gmail.com](mailto:benzph01@gmail.com)
 
 <a href="https://www.github.com/Phatch1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Phatch1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/PHaTCh0" target="_blank" rel="noreferrer"><img
