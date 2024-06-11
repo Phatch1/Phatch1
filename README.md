@@ -10,7 +10,7 @@ src="https://img.shields.io/twitter/follow/PHaTCh0?logo=twitter&style=for-the-ba
 /></a>
 
 <a src="https://tryhackme.com/badge/3103454" >
-<img src="https://tryhackme-badges.s3.amazonaws.com/benzph01.png" alt="TryHackMe">
+
 </a>
 
 ### Skills
