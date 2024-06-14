@@ -9,8 +9,8 @@ src="https://img.shields.io/github/followers/Phatch1?logo=github&style=for-the-b
 src="https://img.shields.io/twitter/follow/PHaTCh0?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-<a  href="https://tryhackme.com/benzph01/badges/7-day-streak" >
-<img src="https://tryhackme-badges.s3.amazonaws.com/benzph01.png" alt="TryHackMe">
+<a  href="https://tryhackme.com/benzova/badges/7-day-streak" >
+<img src="https://tryhackme-badges.s3.amazonaws.com/benzova.png" alt="TryHackMe">
 </a>
 
 ### Skills
