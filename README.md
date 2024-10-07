@@ -6,13 +6,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://www.github.com/Phatch1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Phatch1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/PHaTCh0" target="_blank" rel="noreferrer">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3103454" style='border:none;'></iframe>
+
 <img
 src="https://img.shields.io/twitter/follow/PHaTCh0?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 <a  href="https://tryhackme.com/benzova/badges/7-day-streak" >
-<img src="https://tryhackme-badges.s3.amazonaws.com/benzova.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/benzova.png" alt="Your Image Badge" />
 </a>
 
 ### Skills
