@@ -11,7 +11,6 @@ src="https://img.shields.io/github/followers/Phatch1?logo=github&style=for-the-b
 src="https://img.shields.io/twitter/follow/PHaTCh0?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/benzova.png" alt="Your Image Badge" />
 
 ### Skills
 
