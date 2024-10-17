@@ -11,9 +11,7 @@ src="https://img.shields.io/github/followers/Phatch1?logo=github&style=for-the-b
 src="https://img.shields.io/twitter/follow/PHaTCh0?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><br>
 
-<br> <a href="https://tryhackme.com/r/p/benzova">
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/benzova.png" alt="Your Image Badge" />
+<br> <a href="https://tryhackme.com/r/p/benzova"> <img src="https://tryhackme-badges.s3.amazonaws.com/benzova.png" alt="Your Image Badge" />
 </a>
 
 
