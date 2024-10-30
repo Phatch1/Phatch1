@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <br> <a href="https://tryhackme.com/r/p/benzova"> <img src="https://tryhackme-badges.s3.amazonaws.com/benzova.png" alt="Your Image Badge" />
 </a>
+<br>
 <img src="https://duolingo-stats-card.vercel.app/api?username=PatcharaSu8" alt="Duolingo Stats"/>
 
 * 🌍  I'm based in Thailand
