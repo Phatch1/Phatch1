@@ -5,6 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 
 * 🌍  I'm based in Thailand
+* ✉️  You can contact me at [benzph01@gmail.com](mailto:benzph01@gmail.com)
 * 🖥️  See my portfolio at [Tryhackme](http://https://tryhackme.com/r/p/benzova)
 * 🧠  I'm learning Cyber Security \[ Penetration Tester \]
 
