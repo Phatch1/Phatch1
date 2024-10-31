@@ -12,7 +12,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://www.github.com/Phatch1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Phatch1?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
-![tryhackme stats](https://raw.githubusercontent.com/<Phatch1?>/<Phatch1?>/master/assets/thm_propic.png)
 ### Skills
 
 <p align="left">
