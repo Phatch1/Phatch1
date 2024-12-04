@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Benz
 ============================================================================================================================
 <img src="https://duolingo-stats-card.vercel.app/api?username=PatcharaSu8" alt="Duolingo Stats"/> 
-<a iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3103454" > </a>
+
 <a href="https://tryhackme.com/r/p/benzova"> <img src="https://tryhackme-badges.s3.amazonaws.com/benzova.png" alt="Your Image Badge" />
 </a>
 
