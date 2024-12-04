@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 <img src="https://duolingo-stats-card.vercel.app/api?username=PatcharaSu8" alt="Duolingo Stats"/> 
 
-<a href="https://tryhackme.com/r/p/benzova"> <img src="https://tryhackme-badges.s3.amazonaws.com/benzova.png" alt="Your Image Badge" />
+<a href="https://tryhackme.com/r/p/benzova"> <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3103454" />
 </a>
 
 
